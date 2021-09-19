@@ -121,6 +121,7 @@ textarea{
 
 
 
+
 @media (max-width: 575.98px) { 
     .btn-font{
         font-size: 9px;
@@ -551,6 +552,7 @@ textarea{
     .mobile-only{
         display: none;
     }
+    
     
     
     
