@@ -113,6 +113,12 @@ textarea{
     width: 120px;
     height: 75px;
 }
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #F4F9FB;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #F4F9FB;
+}
 
 
 
